@@ -7,7 +7,7 @@ pip3 install requests
 pip3 install json
 pip3 install datetime
 ```
-3. through terminal go to the folder where the files are and run ` python3 findSlots.py --h `, you will get followign output
+3. through terminal go to the folder where the files are and run example- ` python3 findSlots.py --h `, you will get followign output
 ```
 usage: findSlots.py [-h] pincode {18,45}
 

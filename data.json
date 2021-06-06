@@ -1,0 +1,345 @@
+{
+    "centers": [
+        {
+            "center_id": 546752,
+            "name": "Jagdish Chowk UPHC",
+            "address": "Jagdish Chowk UPHC",
+            "state_name": "Rajasthan",
+            "district_name": "Udaipur",
+            "block_name": "Udaipur Urban",
+            "pincode": 313001,
+            "lat": 0,
+            "long": 0,
+            "from": "10:00:00",
+            "to": "16:00:00",
+            "fee_type": "Free",
+            "sessions": [
+                {
+                    "session_id": "5abeb63a-5bff-4805-b165-bd319414ac89",
+                    "date": "06-06-2021",
+                    "available_capacity": 49,
+                    "min_age_limit": 45,
+                    "vaccine": "COVISHIELD",
+                    "slots": [
+                        "10:00AM-11:00AM",
+                        "11:00AM-12:00PM",
+                        "12:00PM-01:00PM",
+                        "01:00PM-04:00PM"
+                    ],
+                    "available_capacity_dose1": 49,
+                    "available_capacity_dose2": 0
+                }
+            ]
+        },
+        {
+            "center_id": 546736,
+            "name": "Dhanmandi UPHC",
+            "address": "Dhanmandi UPHC",
+            "state_name": "Rajasthan",
+            "district_name": "Udaipur",
+            "block_name": "Udaipur Urban",
+            "pincode": 313001,
+            "lat": 0,
+            "long": 0,
+            "from": "10:00:00",
+            "to": "16:00:00",
+            "fee_type": "Free",
+            "sessions": [
+                {
+                    "session_id": "f796d5dc-a2b3-4d0e-bc75-cd3872c86b42",
+                    "date": "06-06-2021",
+                    "available_capacity": 16,
+                    "min_age_limit": 45,
+                    "vaccine": "COVAXIN",
+                    "slots": [
+                        "10:00AM-11:00AM",
+                        "11:00AM-12:00PM",
+                        "12:00PM-01:00PM",
+                        "01:00PM-04:00PM"
+                    ],
+                    "available_capacity_dose1": 16,
+                    "available_capacity_dose2": 0
+                }
+            ]
+        },
+        {
+            "center_id": 552587,
+            "name": "SSB RNT Medical College",
+            "address": "RNT Medical College",
+            "state_name": "Rajasthan",
+            "district_name": "Udaipur",
+            "block_name": "Udaipur Urban",
+            "pincode": 313001,
+            "lat": 24,
+            "long": 73,
+            "from": "10:00:00",
+            "to": "16:00:00",
+            "fee_type": "Free",
+            "sessions": [
+                {
+                    "session_id": "bbf74786-fb7f-4d1a-ab22-8395e5718eac",
+                    "date": "06-06-2021",
+                    "available_capacity": 47,
+                    "min_age_limit": 45,
+                    "vaccine": "COVISHIELD",
+                    "slots": [
+                        "10:00AM-11:00AM",
+                        "11:00AM-12:00PM",
+                        "12:00PM-01:00PM",
+                        "01:00PM-04:00PM"
+                    ],
+                    "available_capacity_dose1": 47,
+                    "available_capacity_dose2": 0
+                }
+            ]
+        },
+        {
+            "center_id": 210234,
+            "name": "Bacchar PHC",
+            "address": "Bacchar PHC",
+            "state_name": "Rajasthan",
+            "district_name": "Udaipur",
+            "block_name": "Girwa",
+            "pincode": 313001,
+            "lat": 0,
+            "long": 0,
+            "from": "09:00:00",
+            "to": "16:30:00",
+            "fee_type": "Free",
+            "sessions": [
+                {
+                    "session_id": "2ff178f9-0e21-4141-9873-b7e851cf19dd",
+                    "date": "06-06-2021",
+                    "available_capacity": 19,
+                    "min_age_limit": 45,
+                    "vaccine": "COVISHIELD",
+                    "slots": [
+                        "09:00AM-10:00AM",
+                        "10:00AM-11:00AM",
+                        "11:00AM-12:00PM",
+                        "12:00PM-04:30PM"
+                    ],
+                    "available_capacity_dose1": 19,
+                    "available_capacity_dose2": 0
+                }
+            ]
+        },
+        {
+            "center_id": 552561,
+            "name": "G.S.S.S. SAVINA",
+            "address": "G.S.S.S. SAVINA",
+            "state_name": "Rajasthan",
+            "district_name": "Udaipur",
+            "block_name": "Girwa",
+            "pincode": 313001,
+            "lat": 0,
+            "long": 0,
+            "from": "09:00:00",
+            "to": "16:30:00",
+            "fee_type": "Free",
+            "sessions": [
+                {
+                    "session_id": "4cb8f468-943f-4719-9139-aa941721cc7a",
+                    "date": "06-06-2021",
+                    "available_capacity": 15,
+                    "min_age_limit": 45,
+                    "vaccine": "COVISHIELD",
+                    "slots": [
+                        "09:00AM-10:00AM",
+                        "10:00AM-11:00AM",
+                        "11:00AM-12:00PM",
+                        "12:00PM-04:30PM"
+                    ],
+                    "available_capacity_dose1": 15,
+                    "available_capacity_dose2": 0
+                }
+            ]
+        },
+        {
+            "center_id": 553798,
+            "name": "Bhuwana Urban CHC",
+            "address": "Bhuwana Urban CHC",
+            "state_name": "Rajasthan",
+            "district_name": "Udaipur",
+            "block_name": "Udaipur Urban",
+            "pincode": 313001,
+            "lat": 24,
+            "long": 73,
+            "from": "10:00:00",
+            "to": "16:00:00",
+            "fee_type": "Free",
+            "sessions": [
+                {
+                    "session_id": "6eec6add-d568-4cfa-a2b4-dd22a085aabb",
+                    "date": "06-06-2021",
+                    "available_capacity": 14,
+                    "min_age_limit": 45,
+                    "vaccine": "COVAXIN",
+                    "slots": [
+                        "10:00AM-11:00AM",
+                        "11:00AM-12:00PM",
+                        "12:00PM-01:00PM",
+                        "01:00PM-04:00PM"
+                    ],
+                    "available_capacity_dose1": 14,
+                    "available_capacity_dose2": 0
+                }
+            ]
+        },
+        {
+            "center_id": 546408,
+            "name": "Manchla Magra UPHC",
+            "address": "Manchla Magra UPHC",
+            "state_name": "Rajasthan",
+            "district_name": "Udaipur",
+            "block_name": "Udaipur Urban",
+            "pincode": 313001,
+            "lat": 24,
+            "long": 73,
+            "from": "10:00:00",
+            "to": "16:00:00",
+            "fee_type": "Free",
+            "sessions": [
+                {
+                    "session_id": "3d28bcf1-b5a1-4bac-b70e-c4577980b36d",
+                    "date": "06-06-2021",
+                    "available_capacity": 44,
+                    "min_age_limit": 45,
+                    "vaccine": "COVISHIELD",
+                    "slots": [
+                        "10:00AM-11:00AM",
+                        "11:00AM-12:00PM",
+                        "12:00PM-01:00PM",
+                        "01:00PM-04:00PM"
+                    ],
+                    "available_capacity_dose1": 44,
+                    "available_capacity_dose2": 0
+                }
+            ]
+        },
+        {
+            "center_id": 546755,
+            "name": "Fatehpura UPHC",
+            "address": "Fatehpura UPHC",
+            "state_name": "Rajasthan",
+            "district_name": "Udaipur",
+            "block_name": "Udaipur Urban",
+            "pincode": 313001,
+            "lat": 0,
+            "long": 0,
+            "from": "10:00:00",
+            "to": "16:00:00",
+            "fee_type": "Free",
+            "sessions": [
+                {
+                    "session_id": "1ee094e7-b14a-48f6-8c78-4dcce5137729",
+                    "date": "06-06-2021",
+                    "available_capacity": 43,
+                    "min_age_limit": 45,
+                    "vaccine": "COVISHIELD",
+                    "slots": [
+                        "10:00AM-11:00AM",
+                        "11:00AM-12:00PM",
+                        "12:00PM-01:00PM",
+                        "01:00PM-04:00PM"
+                    ],
+                    "available_capacity_dose1": 43,
+                    "available_capacity_dose2": 0
+                }
+            ]
+        },
+        {
+            "center_id": 563266,
+            "name": "UPHC Bhopalpura",
+            "address": "Bhopalpura UPHC",
+            "state_name": "Rajasthan",
+            "district_name": "Udaipur",
+            "block_name": "Udaipur Urban",
+            "pincode": 313001,
+            "lat": 0,
+            "long": 0,
+            "from": "10:00:00",
+            "to": "16:00:00",
+            "fee_type": "Free",
+            "sessions": [
+                {
+                    "session_id": "2fafb926-b791-48e5-b0df-65f6e74df617",
+                    "date": "06-06-2021",
+                    "available_capacity": 45,
+                    "min_age_limit": 45,
+                    "vaccine": "COVAXIN",
+                    "slots": [
+                        "10:00AM-11:00AM",
+                        "11:00AM-12:00PM",
+                        "12:00PM-01:00PM",
+                        "01:00PM-04:00PM"
+                    ],
+                    "available_capacity_dose1": 45,
+                    "available_capacity_dose2": 0
+                }
+            ]
+        },
+        {
+            "center_id": 546409,
+            "name": "Ayad UPHC",
+            "address": "Ayad UPHC",
+            "state_name": "Rajasthan",
+            "district_name": "Udaipur",
+            "block_name": "Udaipur Urban",
+            "pincode": 313001,
+            "lat": 0,
+            "long": 0,
+            "from": "10:00:00",
+            "to": "16:00:00",
+            "fee_type": "Free",
+            "sessions": [
+                {
+                    "session_id": "81c20026-9905-4b66-9e8b-41390c04e2e4",
+                    "date": "06-06-2021",
+                    "available_capacity": 13,
+                    "min_age_limit": 45,
+                    "vaccine": "COVAXIN",
+                    "slots": [
+                        "10:00AM-11:00AM",
+                        "11:00AM-12:00PM",
+                        "12:00PM-01:00PM",
+                        "01:00PM-04:00PM"
+                    ],
+                    "available_capacity_dose1": 13,
+                    "available_capacity_dose2": 0
+                }
+            ]
+        },
+        {
+            "center_id": 552562,
+            "name": "Satelite Hospital Chandpol",
+            "address": "Sattelite Hospital Chandpole Ambamata",
+            "state_name": "Rajasthan",
+            "district_name": "Udaipur",
+            "block_name": "Udaipur Urban",
+            "pincode": 313001,
+            "lat": 24,
+            "long": 73,
+            "from": "10:00:00",
+            "to": "16:00:00",
+            "fee_type": "Free",
+            "sessions": [
+                {
+                    "session_id": "7975e2b5-aa41-4714-81e6-59c061b4756b",
+                    "date": "06-06-2021",
+                    "available_capacity": 45,
+                    "min_age_limit": 45,
+                    "vaccine": "COVISHIELD",
+                    "slots": [
+                        "10:00AM-11:00AM",
+                        "11:00AM-12:00PM",
+                        "12:00PM-01:00PM",
+                        "01:00PM-04:00PM"
+                    ],
+                    "available_capacity_dose1": 45,
+                    "available_capacity_dose2": 0
+                }
+            ]
+        }
+    ]
+}

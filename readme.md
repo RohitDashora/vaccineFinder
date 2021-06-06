@@ -18,7 +18,7 @@ positional arguments:
 optional arguments:
   -h, --help  show this help message and exit
   ```
-  4. now call the function once agian with the arguments ` python3 findSlots.py 313001 45 ` 
+  4. now call the function once agian with the arguments example ` python3 findSlots.py 313001 45 ` 
   if there are slots available it will show you the list else the function will exit.
   ```
   ['06-06-2021', 'Jagdish Chowk UPHC', 'Free', 45, 'COVISHIELD', ['10:00AM-11:00AM', '11:00AM-12:00PM', '12:00PM-01:00PM', '01:00PM-04:00PM'], 49]

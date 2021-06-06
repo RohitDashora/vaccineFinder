@@ -49,7 +49,8 @@ def findslots(pincode, ageLimit):
                     session_list.append(slot)
                     session_list.append(available)
                     slot_list.append(session_list)
-        print(*slot_list, sep='\n')
+        #print(*slot_list, sep='\n')
+        return(slot_list)
     else:
         print("Error calling the API- "+response.reason)
         exit()

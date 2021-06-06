@@ -12,4 +12,5 @@ args = ap.parse_args()
 ageLimit=args.agelimit
 pincode=args.pincode
 
-finderLogic.findslots(pincode=pincode, ageLimit=ageLimit)
+output=finderLogic.findslots(pincode=pincode, ageLimit=ageLimit)
+print(*output, sep='\n')

@@ -1,21 +1,10 @@
-### core login, now distributed, this file will be removed
+
 import argparse
 import requests
 import json
 import datetime
 from datetime import date
 from datetime import timedelta
-
-#adding argparse to go with command line argument, this will also generate helptext
-ap= argparse.ArgumentParser()
-ap.add_argument("pincode", help="Pincode of your location")
-ap.add_argument("agelimit", help="Age limit, choose for 18 or 45", type=int, choices=[18,45])
-ap.add_argument("--date", help="Date when you are looking for vaccination [format dd-mm-yyyy] by default its today's date and onwards")
-args = ap.parse_args()
-
-#top level variables
-ageLimit=args.agelimit
-pincode=args.pincode
 
 
 
@@ -29,7 +18,8 @@ def pollURL(endpoint, pincode, date):
     response=requests.get(url, headers=headers)
     return(response)
 
-if __name__ == '__main__':
+#if __name__ == '__main__':
+def findslots(pincode, ageLimit):
     slot_list =[]
     date2=date.today().strftime("%d-%m-%Y")
     response = pollURL(endpoint, pincode, date2)    
@@ -63,5 +53,4 @@ if __name__ == '__main__':
     else:
         print("Error calling the API- "+response.reason)
         exit()
-
 
